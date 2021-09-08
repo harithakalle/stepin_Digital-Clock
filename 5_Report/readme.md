@@ -7,4 +7,5 @@ INTRODUCTION: This project gives the overview that how to create a digital clock
                   
          WEAKNESS:
                   We cannot able to know the month and year.
+                                         
                   
