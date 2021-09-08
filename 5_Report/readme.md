@@ -7,6 +7,7 @@ INTRODUCTION: This project gives the overview that how to create a digital clock
                   
          WEAKNESS:
                   We cannot able to know the month and year.
-                  New digital clock.docx
+                 [New digital clock.docx](https://github.com/harithakalle/stepin_Digital-Clock/files/7126414/New.digital.clock.docx)
+
                                          
                   
